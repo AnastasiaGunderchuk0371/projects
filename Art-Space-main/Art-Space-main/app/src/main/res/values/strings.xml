@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="bouquets_of_flowers">букеты цветов</string>
+    <string name="tulips">тюльпаны</string>
+    <string name="bouquet_1">Букет 1</string>
+    <string name="price_1">(3000руб)</string>
+    <string name="alstroemeria">альстромерии</string>
+    <string name="bouquet_2">Букет 2</string>
+    <string name="price_2">(2500руб)</string>
+    <string name="roses">розы</string>
+    <string name="bouquet_3">Букет 3</string>
+    <string name="price_3">(5000руб)</string>
+    <string name="gerberas">герберы</string>
+    <string name="bouquet_4">Букет 4</string>
+    <string name="price_4">(1500руб)</string>
+    <string name="gypsophila">гипсофила</string>
+    <string name="bouquet_5">Букет 5</string>
+    <string name="price_5">(2000руб)</string>
+    <string name="peonies">пионы</string>
+    <string name="bouquet_6">Букет 6</string>
+    <string name="price_6">(8000руб)</string>
+    <string name="asters">астры</string>
+    <string name="bouquet_7">Букет 7</string>
+    <string name="price_7">(2000руб)</string>
+    <string name="back">назад</string>
+    <string name="next">вперёд</string>
+</resources>
